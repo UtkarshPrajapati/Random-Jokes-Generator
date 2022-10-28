@@ -5,7 +5,7 @@
   font-family: "Rubik", sans-serif;
 }
 body {
-  background-color: #23afaf;
+  background-image: linear-gradient(to right, #c752bae3, #0c3badd4);
   display: flex;
   flex-direction: column;
   align-items: center;
